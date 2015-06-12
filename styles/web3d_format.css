@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: white;
+}
+
+@font-face {
+	font-family:lokicola-font;
+	src:url(LOKICOLA.TTF);
+}
+
+
+
+
+
+
+
+
+
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #3B3B3B;
+	background-color: #FFF;
+	margin: 0px;
+}
